@@ -1,0 +1,15 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+
+ENTITY counter is
+port(clock, Q: in std_logic;
+	counter : in integer range 0 to 50000000;
+	seconds : in integer range 0 to 172800);
+end counter;
+
+architecture behaviour of counter is
+process 
+begin 
+WAIT UNTIL clock'EVENT AND clock = '1';
+if Q = '1' then
