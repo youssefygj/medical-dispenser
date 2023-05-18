@@ -1,0 +1,201 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Alarm",
+					"strict" : false
+				},
+				{
+					"name" : "le1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "le1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "le1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "le1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "le1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "le1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "le1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "le2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "le2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "le2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "le2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "le2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "le2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "le2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "le3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "le3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "le3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "le3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "le3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "le3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "le3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "le4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "le4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "le4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "le4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "le4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "le4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "le4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "le5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "le5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "le5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "le5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "le5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "le5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "le5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "le6[0]",
+					"strict" : false
+				},
+				{
+					"name" : "le6[1]",
+					"strict" : false
+				},
+				{
+					"name" : "le6[2]",
+					"strict" : false
+				},
+				{
+					"name" : "le6[3]",
+					"strict" : false
+				},
+				{
+					"name" : "le6[4]",
+					"strict" : false
+				},
+				{
+					"name" : "le6[5]",
+					"strict" : false
+				},
+				{
+					"name" : "le6[6]",
+					"strict" : false
+				},
+				{
+					"name" : "enable",
+					"strict" : false
+				},
+				{
+					"name" : "button",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "increment",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
