@@ -10,4 +10,4 @@ The main components of the medicine dispenser are:
 
 The project will use low cost materials and components to achieve scalability and efficiency. The project will also test the counting accuracy and reliability of the device with different types of pills or capsules. The project will compare the performance of the device with existing machines in the market.
 
-Collaborators: 1-youssef amir 2-kirollos magdy 3-sohaila ayman
+Collaborators: 1-youssef raed 2-kirollos magdy 3-youssef maged
