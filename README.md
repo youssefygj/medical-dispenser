@@ -9,3 +9,5 @@ The main components of the medicine dispenser are:
 - A VHDL code that can program the FPGA to control the dispensing logic and the servo motors.
 
 The project will use low cost materials and components to achieve scalability and efficiency. The project will also test the counting accuracy and reliability of the device with different types of pills or capsules. The project will compare the performance of the device with existing machines in the market.
+
+Collaborators: 1-youssef amir 2-kirollos magdy 3-sohaila ayman
